@@ -1,0 +1,25 @@
+img {
+    height: 60px;
+}
+
+.header {
+    background-color: #f0f4fa;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    font-family: sans-serif;
+    box-shadow: 0 0 5px 0 grey;
+}
+
+.nav ul {
+    margin-right : 150px;
+}
+
+.header ul a {
+    color: #357ED3;
+    font-weight: bolder;
+    text-decoration: none;
+}
